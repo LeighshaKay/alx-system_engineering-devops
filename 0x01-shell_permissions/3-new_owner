@@ -1,2 +1,2 @@
 #!/bin/bash
-chown newowner filename
+chown betty hello
